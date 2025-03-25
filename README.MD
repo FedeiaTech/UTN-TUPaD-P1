@@ -7,7 +7,7 @@
 - **Comisión:** M2025-15 
 
 ## 📂 Descripción del Repositorio  
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
+Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**
 
 📌 **Estructura del repositorio:**  
 - Cada trabajo está organizado en carpetas individuales.  
