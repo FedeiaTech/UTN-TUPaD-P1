@@ -19,28 +19,29 @@ Este repositorio contiene implementaciones y un caso práctico para los siguient
 Selection Sort (Ordenamiento por Selección)
 Un algoritmo de ordenamiento simple y fácil de entender. Funciona seleccionando repetidamente el elemento más pequeño (o más grande) del resto de la lista no ordenada y colocándolo en su posición correcta.
 
-## Complejidad Temporal: O(n 
-2
- ) (cuadrática) en todos los casos. Es adecuado solo para conjuntos de datos muy pequeños debido a su eficiencia limitada.
+### Complejidad Temporal: 
+O(n^2) (cuadrática) en todos los casos. Es adecuado solo para conjuntos de datos muy pequeños debido a su eficiencia limitada.
 
-Quick Sort (Ordenamiento Rápido)
+## Quick Sort (Ordenamiento Rápido)
 Un algoritmo de "divide y vencerás" altamente eficiente y uno de los más rápidos en la práctica para grandes volúmenes de datos. Selecciona un "pivote" y particiona el resto de los elementos en dos subarreglos, según si son menores o mayores que el pivote, ordenando luego estos subarreglos recursivamente.
 
-Complejidad Temporal: O(nlogn) (logarítmica lineal) en el mejor y promedio caso. Puede degradarse a O(n 
-2
- ) en el peor caso, aunque esto es raro con una buena estrategia de selección de pivote.
+### Complejidad Temporal: 
+O(n log n) (logarítmica lineal) en el mejor y promedio caso. Puede degradarse a O(n^2) en el peor caso, aunque esto es raro con una buena estrategia de selección de pivote.
 
-Búsqueda
+## Búsqueda
 Búsqueda Binaria (Binary Search)
 Un algoritmo de búsqueda extremadamente eficiente que requiere que la lista esté previamente ordenada. Funciona dividiendo repetidamente el intervalo de búsqueda por la mitad hasta encontrar el elemento deseado o determinar que no existe.
 
-Complejidad Temporal: O(logn) (logarítmica). Esto la hace ideal para buscar elementos en listas muy grandes, ya que el número de pasos crece muy lentamente con el tamaño de la lista.
+### Complejidad Temporal: O(logn) (logarítmica). Esto la hace ideal para buscar elementos en listas muy grandes, ya que el número de pasos crece muy lentamente con el tamaño de la lista.
 
-Estructura del Repositorio
+## Estructura del Repositorio
 El código se organiza de la siguiente manera:
 
-Clase Producto: Define la estructura de los objetos producto con sus atributos nombre y precio.
+### Clase Producto: 
+Define la estructura de los objetos producto con sus atributos nombre y precio.
 
-Implementaciones de Algoritmos: Contiene las funciones para selection_sort, quick_sort y binary_search.
+### Implementaciones de Algoritmos: 
+Contiene las funciones para selection_sort, quick_sort y binary_search.
 
-Archivos de Código Python (.py): Los algoritmos y la lógica del caso práctico están encapsulados en archivos .py (por ejemplo, main.py o archivos separados para cada algoritmo) que pueden ser ejecutados directamente.
+### Archivos de Código Python (.py): 
+Los algoritmos y la lógica del caso práctico están encapsulados en archivos .py

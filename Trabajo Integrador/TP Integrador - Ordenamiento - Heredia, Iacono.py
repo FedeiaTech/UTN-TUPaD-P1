@@ -56,8 +56,9 @@ def quick_sort(arr):
     Quick Sort es un algoritmo de "divide y vencerás". Elige un 'pivote'
     del arreglo y particiona los otros elementos en dos subarreglos,
     según si son menores o mayores que el pivote. Los subarreglos se ordenan recursivamente.
-    Complejidad temporal: O(n log n) en el mejor y promedio caso.
-                          O(n^2) en el peor caso (pivote mal elegido).
+    Complejidad temporal:
+        O(n log n) en el mejor y promedio caso.
+        O(n^2) en el peor caso (pivote mal elegido).
     Complejidad espacial: O(log n) en el promedio caso (debido a la pila de recursión).
     """
     # Función auxiliar recursiva para Quick Sort
