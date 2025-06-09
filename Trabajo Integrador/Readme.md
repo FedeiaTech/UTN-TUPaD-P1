@@ -2,8 +2,9 @@
 
 ## Integrantes:
 
-### HEREDIA, Giuliana
-### IACONO, Federico
+    _ HEREDIA, Giuliana
+    _ IACONO, Federico
+
 
 ## Introducción
 En el vasto mundo de la programación, los algoritmos de búsqueda y ordenamiento son pilares fundamentales que impactan directamente el rendimiento y la experiencia de usuario de cualquier aplicación. Comprender los diferentes tipos de algoritmos, así como sus ventajas y desventajas, es crucial para seleccionar la herramienta adecuada en cada escenario y optimizar la eficiencia de nuestros sistemas.
