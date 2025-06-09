@@ -39,7 +39,7 @@ Complejidad Temporal:
 O(n log n) (logarítmica lineal) en el mejor y promedio caso. Puede degradarse a O(n^2) en el peor caso, aunque esto es raro con una buena estrategia de selección de pivote.
 
 
-## Búsqueda Binaria (Binary Search)
+### Búsqueda Binaria (Binary Search)
 Aunque **no será foco de nuestra investigación**, es importante mencionar este algoritmo de búsqueda extremadamente eficiente que requiere que la lista esté previamente ordenada. Funciona dividiendo repetidamente el intervalo de búsqueda por la mitad hasta encontrar el elemento deseado o determinar que no existe.
 
 Complejidad Temporal: 
