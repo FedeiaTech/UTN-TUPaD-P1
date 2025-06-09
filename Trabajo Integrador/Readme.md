@@ -25,21 +25,21 @@ Las operaciones principales que debemos realizar eficientemente son:
 ## Algoritmos Implementados
 Este repositorio contiene implementaciones y un caso práctico para los siguientes algoritmos:
 
-### Ordenamiento Selection Sort (Ordenamiento por Selección)
+* ### Ordenamiento Selection Sort (Ordenamiento por Selección)
 Un algoritmo de ordenamiento simple y fácil de entender. Funciona seleccionando repetidamente el elemento más pequeño (o más grande) del resto de la lista no ordenada y colocándolo en su posición correcta.
 
 Complejidad Temporal: 
 O(n^2) (cuadrática) en todos los casos. Es adecuado solo para conjuntos de datos muy pequeños debido a su eficiencia limitada.
 
 
-### Quick Sort (Ordenamiento Rápido)
+* ### Quick Sort (Ordenamiento Rápido)
 Un algoritmo de "divide y vencerás" altamente eficiente y uno de los más rápidos en la práctica para grandes volúmenes de datos. Selecciona un "pivote" y particiona el resto de los elementos en dos subarreglos, según si son menores o mayores que el pivote, ordenando luego estos subarreglos recursivamente.
 
 Complejidad Temporal: 
 O(n log n) (logarítmica lineal) en el mejor y promedio caso. Puede degradarse a O(n^2) en el peor caso, aunque esto es raro con una buena estrategia de selección de pivote.
 
 
-### Búsqueda Binaria (Binary Search)
+* ### Búsqueda Binaria (Binary Search)
 Aunque **no será foco de nuestra investigación**, es importante mencionar este algoritmo de búsqueda extremadamente eficiente que requiere que la lista esté previamente ordenada. Funciona dividiendo repetidamente el intervalo de búsqueda por la mitad hasta encontrar el elemento deseado o determinar que no existe.
 
 Complejidad Temporal: 
