@@ -2,8 +2,8 @@
 
 ## Integrantes:
 
-    >> HEREDIA, Giuliana
-    >> IACONO, Federico
+    * HEREDIA, Giuliana
+    * IACONO, Federico
 
 
 ## Introducción
