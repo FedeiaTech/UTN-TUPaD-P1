@@ -49,11 +49,11 @@ O(logn) (logarítmica). Esto la hace ideal para buscar elementos en listas muy g
 ## Estructura del Repositorio
 Los archivos están organizados de la siguiente manera:
 
-### Carpeta de consignas y requisitos para la aprobacion del proyecto: 
+* ### Carpeta de consignas y requisitos para la aprobacion del proyecto: 
 Posee diferentes archivos para la conformacion del proyecto y sus condiciones de aprobación.
 
-### Archivo de informe final: 
+* ### Archivo de informe final: 
 Analisis detallado y muestra de resultados de la investigación realizada.
 
-### Archivo de Código Python (.py): 
+* ### Archivo de Código Python (.py): 
 Los algoritmos y la lógica del caso práctico están encapsulados en archivos .py con su correspondiente documentación
