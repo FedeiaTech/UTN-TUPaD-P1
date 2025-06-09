@@ -5,9 +5,13 @@
 * HEREDIA, Giuliana
 * IACONO, Federico
 
+Comisión: 15
+
 
 ## Introducción
-En el mundo de la programación, los algoritmos de búsqueda y ordenamiento son pilares fundamentales que impactan directamente el rendimiento y la experiencia de usuario de cualquier aplicación. Comprender los diferentes tipos de algoritmos, así como sus ventajas y desventajas, es crucial para seleccionar la herramienta adecuada en cada escenario y optimizar la eficiencia de nuestros sistemas.
+En el mundo de la programación, los algoritmos de búsqueda y ordenamiento son pilares fundamentales que impactan directamente el rendimiento y la experiencia de usuario de cualquier aplicación. 
+
+Con el **objetivo** de comprender los diferentes tipos de algoritmos, así como sus ventajas y desventajas, será crucial para seleccionar la herramienta adecuada en cada escenario y optimizar la eficiencia de nuestros sistemas.
 
 Este proyecto se adentra en el concepto general de estos algoritmos, haciendo un foco especial en dos métodos de ordenamiento clave: Selection Sort y Quick Sort.
 
@@ -57,3 +61,8 @@ Analisis detallado y muestra de resultados de la investigación realizada.
 
 * ### Archivo de Código Python (.py): 
 Los algoritmos y la lógica del caso práctico están encapsulados en archivos .py con su correspondiente documentación
+
+
+## Enlace al Video:
+
+[Link Youtube](https://link-url-here.org)
