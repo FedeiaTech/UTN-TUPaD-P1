@@ -65,4 +65,4 @@ Los algoritmos y la lógica del caso práctico están encapsulados en archivos .
 
 ## Enlace al Video:
 
-[Link Youtube](https://link-url-here.org)
+[Link Youtube](https://youtu.be/yvwaJF5oCrY)
